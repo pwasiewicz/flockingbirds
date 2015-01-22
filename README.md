@@ -62,5 +62,5 @@ Parameters descriptions for FlockingBirds program:
 ```
 
 ## Configurator
-If you are not familiar with command lines, you can use GUI layer that generates proper command line arguments and run programs. With GUI you can also save/load own configurations.
+If you are not familiar with command lines, you can use GUI layer that generates proper command line arguments and run simulation. With GUI you can also save/load own configurations.
 
