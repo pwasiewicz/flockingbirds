@@ -1,4 +1,4 @@
-# flockingbirds
+# FlockingBirds
 Academic project for simulating flocking birds. Used SharpDX library for base rendering.
 
 # Usage
