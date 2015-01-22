@@ -1,0 +1,11 @@
+﻿<Application x:Class="FlockingBirds.Configurator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:dependencies1="clr-namespace:FlockingBirds.Configurator.Dependencies"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <ResourceDictionary>
+            <dependencies1:ViewModelsLocator x:Key="ViewModelsLocator" />
+         </ResourceDictionary>
+    </Application.Resources>
+</Application>

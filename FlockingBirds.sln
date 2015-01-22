@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingBirds", "FlockingBirds\FlockingBirds.csproj", "{FB682E71-455A-421B-BAE8-D2013E071B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingSimulation", "FlockingSimulation\FlockingSimulation.csproj", "{BC5EBD8E-BC97-4A3D-B33B-7F8EF4B10780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingBirds.Game", "FlockingBirds.Game\FlockingBirds.Game.csproj", "{FB600347-42FA-479B-B88B-03CC5A327140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingBirds.Game.Drawable", "FlockingBirds.Game.Drawable\FlockingBirds.Game.Drawable.csproj", "{2969334C-7005-41DB-890A-45249B2F866E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7A401D01-773E-4E97-B84D-ECE053C9DC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingBirds.Configurator", "FlockingBirds.Configurator\FlockingBirds.Configurator.csproj", "{627C96AF-CD60-4249-8DF3-A0B1257EB0D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB682E71-455A-421B-BAE8-D2013E071B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB682E71-455A-421B-BAE8-D2013E071B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB682E71-455A-421B-BAE8-D2013E071B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB682E71-455A-421B-BAE8-D2013E071B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5EBD8E-BC97-4A3D-B33B-7F8EF4B10780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5EBD8E-BC97-4A3D-B33B-7F8EF4B10780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5EBD8E-BC97-4A3D-B33B-7F8EF4B10780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5EBD8E-BC97-4A3D-B33B-7F8EF4B10780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB600347-42FA-479B-B88B-03CC5A327140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB600347-42FA-479B-B88B-03CC5A327140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB600347-42FA-479B-B88B-03CC5A327140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB600347-42FA-479B-B88B-03CC5A327140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2969334C-7005-41DB-890A-45249B2F866E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2969334C-7005-41DB-890A-45249B2F866E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2969334C-7005-41DB-890A-45249B2F866E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2969334C-7005-41DB-890A-45249B2F866E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627C96AF-CD60-4249-8DF3-A0B1257EB0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627C96AF-CD60-4249-8DF3-A0B1257EB0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627C96AF-CD60-4249-8DF3-A0B1257EB0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627C96AF-CD60-4249-8DF3-A0B1257EB0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
