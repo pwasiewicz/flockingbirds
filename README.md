@@ -1,5 +1,5 @@
 # flockingbirds
-Academic project for simulating flocking birds.
+Academic project for simulating flocking birds. Used SharpDX library for base rendering.
 
 # Usage
 ## Command line
